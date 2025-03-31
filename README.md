@@ -1,5 +1,10 @@
 # EPANET 2.2
 
+![image37](https://user-images.githubusercontent.com/2470152/154551849-57d48b9d-2ea6-4a0f-90fd-3132c8c2aa8d.png)
+
+## Build Status
+[![Build and Test](../../actions/workflows/build-and-test.yml/badge.svg)](../../actions/workflows/build-and-test.yml)
+
 # Introduction
 EPANET is used to perform extended-period simulation of the hydraulic and water quality behavior within drinking water distribution systems (e.g., pressurized pipe networks), which consist of pipes, nodes (junctions), pumps, valves, storage tanks, and reservoirs. It can be used to track the flow of water in each pipe, the pressure at each node, the height of the water in each tank, a chemical concentration, the age of the water, and source tracing throughout the network during a simulation period.
 
@@ -24,7 +29,7 @@ EPANET has an active open source software community including consulting enginee
 Finally, the issues identified and resolved here were the result of U.S. EPA's efforts to coordinate beta testing of the EPA/OWA EPANET version 2.2.0.  
 
 # Documentation
-The "Read-the-Docs" version of the EPANET User's Manual is available here at https://epanet22.readthedocs.io/en/latest/.  Alternatively, an Acrobat PDF version is available for download within the User Manual folder https://github.com/USEPA/EPANET2.2/tree/master/User_Manual. 
+The "Read-the-Docs" version of the EPANET User's Manual is available here at https://epanet22.readthedocs.io/en/latest/.  Alternatively, an Acrobat PDF version is available for download within the User Manual folder https://github.com/USEPA/EPANET2.2/tree/master/User_Manual. A frequently asked questions (FAQ) document is also available at [FAQ](https://github.com/USEPA/EPANET2.2/blob/master/User_Manual/EPANET%20FAQ.pdf).
 
 # Contact
 epanet@epa.gov
